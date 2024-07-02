@@ -17,7 +17,7 @@ My journey in Telecommunication and electronics  has led me to develop a passion
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Foundation of cybersecurity         | <a href="https://google.com">Cybersecurityportfolio</a>|
+| Foundation of cybersecurity         | <a href="https://google.com">Cybersecurityportfolio</a>
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -51,7 +51,8 @@ My journey in Telecommunication and electronics  has led me to develop a passion
 
 <div>
 <img src="https://img.shields.io/badge/-Higher%20National%20Diploma-FF0000?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Googlecybersecurityprofessionalcertificate&logoColor=white" />
+
 
 
 </div>
